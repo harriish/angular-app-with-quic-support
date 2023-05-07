@@ -1,6 +1,6 @@
 # SpaDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6 and the source codes have been taken from https://blog.mayadata.io/openebs/steps-to-deploy-angular-application-on-kubernetes in order to verify if angular application relies on QUIC protocol running on EKS kubernetes 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6 and the source codes have been taken from https://blog.mayadata.io/openebs/steps-to-deploy-angular-application-on-kubernetes in order to verify if angular application relies on QUIC protocol running on Nginx web server
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
